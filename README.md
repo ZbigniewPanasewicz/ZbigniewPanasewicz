@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 
 📫 How to reach me: z.panasewicz@gmail.com
 
-![profile picure](https://github.com/ZbigniewPanasewicz/ZbigniewPanasewicz/blob/main/zibi-html.jpg)
+![Zbigniew Panasewicz](https://github.com/ZbigniewPanasewicz/ZbigniewPanasewicz/blob/main/zibi-html.jpg)
 
 ## Skills
 - **Frontend Development:** HTML, CSS, JavaScript
 - **Backend Development:** not yet...
 - **Tools & Technologies:** Git
 - **Design:** Adobe Photoshop
+- **Martial Arts:** Tai Chi and Kung Fu - over 30 years
 
 ## Projects
 

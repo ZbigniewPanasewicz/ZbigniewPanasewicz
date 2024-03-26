@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 📫 How to reach me: z.panasewicz@gmail.com
 
+![profile picure](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## Skills
 - **Frontend Development:** HTML, CSS, JavaScript
 - **Backend Development:** not yet...

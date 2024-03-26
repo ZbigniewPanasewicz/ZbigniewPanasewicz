@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Zbigniew! 👋
+# Hello, I'm Zibi! 👋
 
 ## About Me
 👨‍💻 I will be a passionate Web Developer with a knack for creating engaging and user-friendly websites.

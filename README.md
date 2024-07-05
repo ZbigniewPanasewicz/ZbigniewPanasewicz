@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - Hopefully when I finish Bootcamp 😄
 
 ## Find me around the web 🌎:
-- Linkedin: [https://www.linkedin.com/in/zbigniew-panasewicz-b063592b9/]
+- Linkedin: [https://www.linkedin.com/in/zbigniew-panasewicz/]
 

@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 # Hello, I'm Zibi! 👋
 
 ## About Me
-👨‍💻 I will be a passionate Web Developer with a knack for creating engaging and user-friendly websites.
+👨‍💻 I'm a passionate Web Developer with a knack for creating engaging and user-friendly websites.
 
-🌱 Currently, I'm focused on learning JavaSript, Python and few more 😄 .
+🌱 Currently, I’m focused on extending my knowledge of JavaScript, Python, and a few more 😄 .
 
-💼 I specialize in (not yet...), and I'm experienced in (definitely not yet).
+💼 I specialize in HTML and CSS, and I'm experienced in Wordpress and WIX.
 
 📫 How to reach me: z.panasewicz@gmail.com
 
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 ## Skills
 - **Frontend Development:** HTML, CSS, JavaScript
-- **Backend Development:** not yet...
-- **Tools & Technologies:** Git
+- **Backend Development:** React.js
 - **Design:** Adobe Photoshop
 - **Martial Arts:** Tai Chi and Kung Fu - over 30 years
 
